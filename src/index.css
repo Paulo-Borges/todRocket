@@ -2,7 +2,7 @@
 
 /* Configurando as cores do tema */
 @theme {
-  --color-*: initial;
+  --color-*: initial; /* Assim você define um valor padrão para todas as cores */
   --color-black: #000000;
   --color-white: #ffffff;
   --color-gray-100: #f7f3f6;
